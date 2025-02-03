@@ -1,4 +1,10 @@
 Hi How are You?
 rugvigb
 Hi 
+<<<<<<< Updated upstream
 What about you?
+=======
+Fine
+>>>>>>> Stashed changes
+
+yryfkk
